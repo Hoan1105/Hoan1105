@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Hoàn</h1>
 <h3 align="center"> <q>I'm a web developer who can code all day without getting tired.</q> </h3>
-- 👀 Facebook:  <a href="[https://getbootstrap.com](https://www.facebook.com/NgNgocHoan2004)"> Nguyễn Ngọc Hoàn </a> </br>
+- 👀 Facebook:  <a href="https://www.facebook.com/NgNgocHoan2004"> Nguyễn Ngọc Hoàn </a> </br>
 - 📞 Phone: 0866816201 </br>
 - 📨 Mail: nguyenngochoan11052004@gmail.com</br>
 </br>
